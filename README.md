@@ -13,9 +13,3 @@ Whatsapp Stickers app using flutter
 ![9 (1)](https://user-images.githubusercontent.com/69412970/104689519-78ad6200-5724-11eb-98ca-6c8c9c164afa.jpg)
 ![9 (2)](https://user-images.githubusercontent.com/69412970/104689523-7945f880-5724-11eb-8eb1-cf5624e1f89b.jpg)
 
-## Playstore:
-
-https://play.google.com/store/apps/details?id=com.noorisofttech.trendy_stickers
-![google play button](https://user-images.githubusercontent.com/69412970/104689315-1eac9c80-5724-11eb-80c5-744dfbe4520d.png)
-
-
