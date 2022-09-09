@@ -13,6 +13,7 @@ class InstallStickersModal extends ChangeNotifier{
     notifyListeners();
   }
 
+  
   void remove(dynamic tempName){
     _installedStickers.remove(tempName);
     notifyListeners();
